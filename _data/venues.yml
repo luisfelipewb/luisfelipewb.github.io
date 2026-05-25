@@ -1,9 +1,27 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"VCIP":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000440/all-proceedings
+  color: "#1d4ed8"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IROS":
+  url: https://ieee-iros.org/
+  color: "#b91c1c"
 
-"Vision":
-  color: "#009f36"
+"ICRA":
+  url: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
+  color: "#b91c1c"
+
+"ECCV":
+  url: https://www.ecva.net/
+  color: "#1d4ed8"
+
+"T-FR":
+  url: https://www.ieee-ras.org/publications/t-fr/
+  color: "#b91c1c"
+
+"W-FR":
+  url: https://norlab-ulaval.github.io/workshop_field_robotics_icra2025/
+  color: "#b91c1c"
+
+"TMLR":
+  url: https://jmlr.org/tmlr/
+  color: "#ca8a04"
