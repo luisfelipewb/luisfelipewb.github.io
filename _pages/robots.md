@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A collection of projects grouped by robots.
+title: robots
+permalink: /robots/
+description: Robotic platforms I have worked with across different projects.
 nav: true
 nav_order: 3
 display_categories: [robots]
