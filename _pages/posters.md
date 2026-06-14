@@ -4,7 +4,7 @@ title: posters
 permalink: /posters/
 description: Conference posters from my research.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 <div class="row row-cols-1 row-cols-md-2 g-4 mt-2">

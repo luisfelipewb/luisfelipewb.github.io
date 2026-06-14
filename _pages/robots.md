@@ -4,7 +4,7 @@ title: robots
 permalink: /robots/
 description: Robotic platforms I have worked with across different projects.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [robots]
 horizontal: false
 ---
