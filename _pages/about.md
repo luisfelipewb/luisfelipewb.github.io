@@ -6,10 +6,10 @@ subtitle: Robotics research engineer - Bringing AI research onto real robots
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Buraco do Padre, Brazil</p>
+    <p>Cauterets, Pyrénées, 2025</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
