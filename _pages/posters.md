@@ -10,12 +10,12 @@ nav_order: 3
 <div class="row row-cols-1 row-cols-md-2 g-4 mt-2">
   {% assign posters = "2026ICRA,ICRA 2026|2025VCIP,VCIP 2025|2025ICRA,ICRA 2025|2024IROS,IROS 2024|2024ECCV,ECCV 2024" | split: "|" %}
 
-  {% for item in posters %}
-    {% assign parts = item | split: "," %}
-    {% assign slug = parts[0] %}
-    {% assign label = parts[1] %}
-    {% assign pdf_path = '/assets/pdf/posters/' | append: slug | append: '_poster.pdf' %}
-    {% assign modal_id = 'modal-' | append: slug %}
+{% for item in posters %}
+{% assign parts = item | split: "," %}
+{% assign slug = parts[0] %}
+{% assign label = parts[1] %}
+{% assign pdf_path = '/assets/pdf/posters/' | append: slug | append: '_poster.pdf' %}
+{% assign modal_id = 'modal-' | append: slug %}
 
     <div class="col">
       <div class="card h-100 hoverable">
@@ -51,5 +51,6 @@ nav_order: 3
       </div>
     </div>
 
-  {% endfor %}
+{% endfor %}
+
 </div>

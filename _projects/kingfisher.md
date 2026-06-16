@@ -16,7 +16,6 @@ I spent a big part of my PhD working on this robot: a surface vessel that alread
     </div>
 </div>
 
-
 The clip above shows the final result: an RL policy, trained entirely in simulation, controlling the real robot to capture floating waste. The policy was deployed zero-shot from Isaac Sim. No fine-tuning on real data.
 
 Getting there meant working on pretty much every layer of the stack, with frequent field tests to evaluate progress and prioritize improvement efforts.
@@ -81,8 +80,8 @@ The work led to two papers worth pointing at:
 ---
 
 ## Integration
-Combining the perception and control learned models was the last part of my PhD. Here the challenge was putting it all together in a way that it worked reliably. 
 
+Combining the perception and control learned models was the last part of my PhD. Here the challenge was putting it all together in a way that it worked reliably.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -97,6 +96,7 @@ Combining the perception and control learned models was the last part of my PhD.
 </div>
 
 The final results are briefly shown in the following video
+
 <div class="row mt-3 justify-content-center">
     <div class="col-sm-12 col-lg-10 mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/qOIKrZn-bK8" class="w-100 rounded z-depth-1" height="440" %}
@@ -129,7 +129,6 @@ A research robot rarely arrives ready for the work you want to do. Making all th
 
 Field robotics is quite humbling. Your battery will always die sooner than your estimate and of course many other things can (and will) go wrong.
 
-
 <div class="row justify-content-center">
     <div class="col-sm-10 col-md-8 col-lg-10 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/robots/kingfisher/field-challenges.jpg" title="Field Issues" class="img-fluid rounded z-depth-1" %}
@@ -161,6 +160,5 @@ PhD is done. The Kingfisher has served me well but it isn't retired. I am now pr
 <div class="caption">
     Sequence of images showing the latest modifications in the Kingfisher. Reduced payload, simplified components, and sail installation.
 </div>
-
 
 All these field deployments taught me lessons that simulation alone never could, about test protocols, controller behavior under real disturbances, sensor limitations, and calibration. Many failure modes only showed up once everything was running together on the real robot, and it took repeated iterations to trace the root causes and fix them properly. If there's one takeaway, it's that progress in autonomous systems depends as much on careful integration as on algorithmic novelty.
