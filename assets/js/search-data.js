@@ -461,7 +461,7 @@ ninja.data = [{
               window.location.href = "/projects/husky/";
             },},{id: "projects-jaco-2",
           title: 'Jaco 2',
-          description: "Kinova Jaco 2 robotic arm (placeholder)",
+          description: "Kinova Jaco 2 robotic arm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jaco2/";
             },},{id: "projects-jellyfish-bot",
