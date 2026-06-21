@@ -456,7 +456,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-husky",
           title: 'Husky',
-          description: "Rugged ground robot (placeholder)",
+          description: "Rugged ground robot for research",
           section: "Projects",handler: () => {
               window.location.href = "/projects/husky/";
             },},{id: "projects-jaco-2",
@@ -464,9 +464,9 @@ ninja.data = [{
           description: "Kinova Jaco 2 robotic arm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jaco2/";
-            },},{id: "projects-jellyfish-bot",
-          title: 'Jellyfish Bot',
-          description: "Underwater robotic research platform (placeholder)",
+            },},{id: "projects-jellyfishbot",
+          title: 'Jellyfishbot',
+          description: "Industrial ASV for waste collection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jellyfishbot/";
             },},{id: "projects-kingfisher",
@@ -476,12 +476,12 @@ ninja.data = [{
               window.location.href = "/projects/kingfisher/";
             },},{id: "projects-turtlebot-2",
           title: 'TurtleBot 2',
-          description: "Earlier TurtleBot platform (placeholder)",
+          description: "Open source learning platform",
           section: "Projects",handler: () => {
               window.location.href = "/projects/turtlebot2/";
             },},{id: "projects-turtlebot-3",
           title: 'TurtleBot 3',
-          description: "Small differential-drive mobile robot platform (placeholder)",
+          description: "Personal mobile robot platform",
           section: "Projects",handler: () => {
               window.location.href = "/projects/turtlebot3/";
             },},{id: "teachings-data-science-fundamentals",
