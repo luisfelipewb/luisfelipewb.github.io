@@ -18,7 +18,7 @@ Early on, I had the chance to set up the physical robot for tests and get famili
 
 <div class="row" mt-3 justify-content-center>
     <div class="col-sm col-lg-10 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/robots/jaco/jaco.jpeg" title="Sail configuration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robots/jaco/jaco.jpeg" title="Kinova Jaco 2 arm" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -33,14 +33,14 @@ For most of the project, I worked with a Franka Emika Panda arm in Isaac Sim. Th
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/robots/jaco/panda-sim.jpg" title="Sail configuration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robots/jaco/panda-sim.jpg" title="Panda arm in RViz-Isaac Sim" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/robots/jaco/panda-perc.jpg" title="3D-printed souvenir" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robots/jaco/panda-perc.jpg" title="Panda arm perception" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Ilustrating the MoveIt plugin in RViz to control the Panda arm and its simulation with synthetic perception dada in Isaac Sim.
+    Illustrating the MoveIt plugin in RViz to control the Panda arm and its simulation with synthetic perception data in Isaac Sim.
 </div>
 
 Working with the Panda was also a good opportunity to dig into some of the standard motion planners (e.g. OMPL-based planners available through MoveIt), compare Cartesian-space versus joint-space control, and get a feel for the challenges of planning in a 7-DoF arm. The extra degree of freedom compared to a more common 6-DoF arm means there's a whole null-space of joint configurations that all reach the same end-effector pose, great for avoiding obstacles and joint limits, but it adds real complexity to the search space.

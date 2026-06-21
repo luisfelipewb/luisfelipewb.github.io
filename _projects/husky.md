@@ -41,7 +41,7 @@ I started working with the Husky mostly on the support side, keeping it healthy 
 
 ## Field test support
 
-A lot of my involvement has been around field tests: helping others prepare experiments, debugging issues during deployments, and processing the recorded data. On the easier days, I sometimes have a chance fly a drone and capture aerial footage of the experiments.
+A lot of my involvement has been around field tests: helping others prepare experiments, debugging issues during deployments, and processing the recorded data. On the easier days, I sometimes have a chance to fly a drone and capture aerial footage of the experiments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

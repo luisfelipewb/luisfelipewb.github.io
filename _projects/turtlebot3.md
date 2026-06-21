@@ -1,14 +1,14 @@
 ---
 layout: page
 title: TurtleBot 3
-description: Personal mobile robot platform
+description: My own mobile robot platform for tinkering
 img: assets/img/turtlebot3.jpeg
 importance: 4
 category: robots
 related_publications: false
 ---
 
-The TurtleBot 3 is a compact, differential-drive mobile robot built around a Raspberry Pi and the OpenCR control board. I bought one back in 2018 when I first started getting into robotics, and it's been my go-to personal platform for tinkering ever since.
+The TurtleBot 3 is a compact, differential-drive mobile robot built around a Raspberry Pi and the OpenCR control board. I bought one back in 2018 when I first started getting into robotics, and it's been my go-to platform for tinkering ever since.
 
 A bit like adult LEGO, it gives you something to explore at every level: mechanical assembly, firmware on the OpenCR, and the full software stack running on top of ROS. The time-lapse below shows the initial assembly.
 

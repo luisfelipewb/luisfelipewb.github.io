@@ -32,10 +32,10 @@ I also used the TurtleBot 2 as a preliminary test platform for RL-based control,
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/robots/turtlebot2/tb2-rl.jpg" title="Reinforcement Learning for the TurtleBot3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robots/turtlebot2/tb2-rl.jpg" title="Reinforcement Learning for the TurtleBot2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/robots/turtlebot2/tb2-rl-target.jpg" title="Target based on April Tags" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robots/turtlebot2/tb2-rl-target.jpg" title="Target based on AprilTags" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -56,7 +56,6 @@ As a fun side project, in collaboration with other students, we also got a small
 
 ## As a teaching assistant
 
-Later on, as TA for the same class (Spring 2024 and 2025), [explain, providing support for the turtlebot fleet, both hardware, software and supporting students during assignments.]
 Later on, as TA for the same class (Spring 2024 and 2025), I helped keep the lab's TurtleBot fleet running and supported students through their assignments. That meant a mix of hardware upkeep, software maintenance, and a fair amount of debugging help during office hours.
 
 <div class="row justify-content-center">

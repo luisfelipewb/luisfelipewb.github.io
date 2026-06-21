@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Luis, a Research Engineer at the [DREAM Lab](https://dream.georgiatech-metz.fr/) (Georgia Tech-Europe in Metz, France), where I develop, integrate, and evaluate robotic systems across a range of platforms and applications [(see examples)](https://luisfelipewb.github.io/projects/). I recently completed a PhD in Robotics jointly at Georgia Tech and Université de Lorraine, with a focus on field robotics, reinforcement learning, and computer vision.
+Hi! I'm Luis, a Research Engineer at the [DREAM Lab](https://dream.georgiatech-metz.fr/) (Georgia Tech-Europe in Metz, France), where I develop, integrate, and evaluate robotic systems across a range of platforms and applications [(see examples)](https://luisfelipewb.github.io/robots/). I recently completed a PhD in Robotics jointly at Georgia Tech and Université de Lorraine, with a focus on field robotics, reinforcement learning, and computer vision.
 
 Before that, I spent several years in industrial R&D across Brazil and Japan, working on radar, sensors, and embedded systems for telecom and industrial applications.
 
