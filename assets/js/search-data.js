@@ -481,7 +481,7 @@ ninja.data = [{
               window.location.href = "/projects/turtlebot2/";
             },},{id: "projects-turtlebot-3",
           title: 'TurtleBot 3',
-          description: "Personal mobile robot platform",
+          description: "My own mobile robot platform for tinkering",
           section: "Projects",handler: () => {
               window.location.href = "/projects/turtlebot3/";
             },},{id: "teachings-data-science-fundamentals",
