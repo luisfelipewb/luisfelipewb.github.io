@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-22'
 papers:
   C5cutVoAAAAJ:3fE2CSJIrl8C:
     citations: 7
     title: 'PoTATO: A Dataset for Analyzing Polarimetric Traces of Afloat Trash Objects'
     year: '2024'
   C5cutVoAAAAJ:4TOpqqG69KYC:
-    citations: 0
+    citations: 1
     title: Sim-to-Real Transfer and Robustness Evaluation of Reinforcement Learning Control with Integrated Perception on an ASV for Floating Waste Capture
     year: '2026'
   C5cutVoAAAAJ:KlAtU1dfN6UC:
@@ -22,7 +22,7 @@ papers:
     title: Evaluation of Polarimetric Fusion for Semantic Segmentation in Aquatic Environments
     year: '2025'
   C5cutVoAAAAJ:YOwf2qJgpHMC:
-    citations: 2
+    citations: 3
     title: 'RoboRAN: A Unified Robotics Framework for Reinforcement Learning-Based Autonomous Navigation'
     year: '2025'
   C5cutVoAAAAJ:_kc_bZDykSQC:
@@ -30,6 +30,6 @@ papers:
     title: Autonomous System for Identifying and Capturing Floating Waste
     year: '2026'
   C5cutVoAAAAJ:kNdYIx-mwKoC:
-    citations: 2
+    citations: 3
     title: Guaranteed reach-avoid for black-box systems through narrow gaps via neural network reachability
     year: '2025'
