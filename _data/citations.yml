@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-21'
 papers:
   C5cutVoAAAAJ:3fE2CSJIrl8C:
-    citations: 8
+    citations: 9
     title: 'PoTATO: A Dataset for Analyzing Polarimetric Traces of Afloat Trash Objects'
     year: '2024'
   C5cutVoAAAAJ:4TOpqqG69KYC:
@@ -14,7 +14,7 @@ papers:
     title: Evaluating Robustness of Deep Reinforcement Learning for Autonomous Surface Vehicle Control in Field Tests
     year: '2025'
   C5cutVoAAAAJ:MXK_kJrjxJIC:
-    citations: 14
+    citations: 16
     title: A Deep Reinforcement Learning Framework and Methodology for Reducing the Sim-to-Real Gap in ASV Navigation
     year: '2024'
   C5cutVoAAAAJ:ULOm3_A8WrAC:
