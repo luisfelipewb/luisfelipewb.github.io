@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-31'
 papers:
   C5cutVoAAAAJ:3fE2CSJIrl8C:
     citations: 9
@@ -19,7 +19,7 @@ papers:
     year: '2024'
   C5cutVoAAAAJ:ULOm3_A8WrAC:
     citations: 3
-    title: Evaluation of Polarimetric Fusion for Semantic Segmentation in Aquatic Environments
+    title: Evaluation of polarimetric fusion for semantic segmentation in aquatic environments
     year: '2025'
   C5cutVoAAAAJ:YOwf2qJgpHMC:
     citations: 4
